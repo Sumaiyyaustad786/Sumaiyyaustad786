@@ -12,10 +12,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:sumaiyya.ustad190@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Envelope_font_awesome.svg" alt="Email" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Envelope_font_awesome.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 <p align="center"><b>Connect with me</b></p>
+
 
 ---
 
