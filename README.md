@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumaiyya Ustad</h1>
-<p align="center">A passionate Data Scientist</p>
+<p align="center"><b>A passionate Data Scientist | Python | SQL | Power BI | Machine Learning Enthusiast | Lifelong Learner</b></p>
 
 <p align="center">
   <img src="https://samuelsum.com/wp-content/uploads/2020/03/datascience_c0102.png" alt="Data Science Illustration" width="250"/>
@@ -12,7 +12,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:sumaiyya.ustad190@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Outlook_2013-2019_logo.svg" alt="Email" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Envelope_font_awesome.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 <p align="center"><b>Connect with me</b></p>
