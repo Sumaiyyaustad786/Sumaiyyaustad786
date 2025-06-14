@@ -1,16 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sumaiyya Ustad</h1>
-<p align="center">A passionate Data Scientist eager to learn and grow.</p>
+<p align="center">A passionate Data Scientist</p>
 
-### How to reach me:
-- 📫 Linkdin: [https://www.linkedin.com/in/ustad-sumaiyya](https://www.linkedin.com/in/ustad-sumaiyya)  
-- 📧 Email: [sumaiyya.ustad190@gmail.com](mailto:sumaiyya.ustad190@gmail.com)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=600&q=80" alt="Data Science Illustration" width="250"/>
+</p>
+
+<!-- Replace the image URL above with any other data-science-related image you prefer -->
+
 ---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ustad-sumaiyya" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="mailto:sumaiyya.ustad190@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+<p align="center"><b>Connect with me</b></p>
 
+---
 
-## Languages and Tools
-
-<p align="left">
+<p align="center"><b>Languages and Tools</b></p>
+<p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -34,21 +49,10 @@
   </a>
 </p>
 
----
-
-## 📚 Hobbies
-
-- Reading books 📖  
-- Exploring new data trends  
-- Learning new tools and technologies
-
----
-
-<p align="right">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" alt="Data science illustration" width="400"/>
-</p>
-
-<!-- You can replace the illustration above with your own by uploading and changing the URL -->
-
-
-
+<!-- 
+- All sections are centered.
+- "Connect with me" and "Languages and Tools" are in the center, as requested.
+- Hobbies section removed.
+- Field image placed above connect section.
+- Replace the illustration with your preferred image as needed.
+-->
