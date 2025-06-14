@@ -2,7 +2,7 @@
 <p align="center">A passionate Data Scientist eager to learn and grow.</p>
 
 - 📫 How to reach me: [https://www.linkedin.com/in/ustad-sumaiyya](https://www.linkedin.com/in/ustad-sumaiyya)</p>
-                       [sumaiyyaustad190@gmail.com](sumaiyyaustad190@gmail.com)
+                                             [sumaiyyaustad190@gmail.com](sumaiyyaustad190@gmail.com)
 ---
 
 
