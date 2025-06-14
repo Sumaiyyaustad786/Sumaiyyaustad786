@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sumaiyya Ustad</h1>
+<p align="center">A passionate Data Scientist eager to learn and grow.</p>
 
-<!--
-**Sumaiyyaustad786/Sumaiyyaustad786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/ustad-sumaiyya)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ustad-sumaiyya" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.sql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📚 Hobbies
+
+- Reading books 📖  
+- Exploring new data trends  
+- Learning new tools and technologies
+
+---
+
+<p align="right">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" alt="Data science illustration" width="400"/>
+</p>
+
+<!-- You can replace the illustration above with your own by uploading and changing the URL -->
+
+
+
