@@ -2,10 +2,8 @@
 <p align="center">A passionate Data Scientist</p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=600&q=80" alt="Data Science Illustration" width="250"/>
+  <img src="https://samuelsum.com/wp-content/uploads/2020/03/datascience_c0102.png" alt="Data Science Illustration" width="250"/>
 </p>
-
-<!-- Replace the image URL above with any other data-science-related image you prefer -->
 
 ---
 
@@ -13,11 +11,8 @@
   <a href="https://www.linkedin.com/in/ustad-sumaiyya" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
   <a href="mailto:sumaiyya.ustad190@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Outlook_2013-2019_logo.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 <p align="center"><b>Connect with me</b></p>
@@ -48,11 +43,3 @@
     <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
 </p>
-
-<!-- 
-- All sections are centered.
-- "Connect with me" and "Languages and Tools" are in the center, as requested.
-- Hobbies section removed.
-- Field image placed above connect section.
-- Replace the illustration with your preferred image as needed.
--->
