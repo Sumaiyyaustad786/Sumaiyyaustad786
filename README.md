@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumaiyya Ustad</h1>
 <p align="center">A passionate Data Scientist eager to learn and grow.</p>
 
-- 📫 How to reach me: [https://www.linkedin.com/in/ustad-sumaiyya](https://www.linkedin.com/in/ustad-sumaiyya)</p>
-                                             [sumaiyyaustad190@gmail.com](sumaiyyaustad190@gmail.com)
+### How to reach me:
+- 📫 Linkdin: [https://www.linkedin.com/in/ustad-sumaiyya](https://www.linkedin.com/in/ustad-sumaiyya)  
+- 📧 Email: [sumaiyya.ustad190@gmail.com](mailto:sumaiyya.ustad190@gmail.com)
 ---
 
 
