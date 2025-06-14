@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumaiyya Ustad</h1>
-<p align="center"><b>A passionate Data Scientist | Python | SQL | Power BI | Machine Learning Enthusiast | Lifelong Learner</b></p>
+<p align="center"><b>A passionate Data Scientist eager to learn and grow.</p>
 
 <p align="center">
   <img src="https://samuelsum.com/wp-content/uploads/2020/03/datascience_c0102.png" alt="Data Science Illustration" width="250"/>
