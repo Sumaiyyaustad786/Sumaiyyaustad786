@@ -1,22 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumaiyya Ustad</h1>
 <p align="center">A passionate Data Scientist eager to learn and grow.</p>
 
-- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/ustad-sumaiyya)
-
+- 📫 How to reach me: [https://www.linkedin.com/in/ustad-sumaiyya](https://www.linkedin.com/in/ustad-sumaiyya)
+                       [sumaiyyaustad190@gmail.com](sumaiyyaustad190@gmail.com)
 ---
 
-## Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ustad-sumaiyya" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-</p>
-
----
 
 ## Languages and Tools
 
